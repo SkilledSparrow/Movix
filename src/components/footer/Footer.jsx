@@ -22,12 +22,8 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Movies have the power to unite us, make us laugh, cry, and think. Thank you for being part of our movie-loving 
+                community. We look forward to sharing more great films with you!
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
