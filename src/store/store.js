@@ -1,7 +1,7 @@
 import { configureStore } from "@reduxjs/toolkit";
 
 
-import homeSlice from "./homeslice.js";
+import homeSlice from "./homeSlice.js";
 
 
 export const store = configureStore({
