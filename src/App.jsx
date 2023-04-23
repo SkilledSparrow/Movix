@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { fetchDataFromApi } from './utils/api'
 import { useSelector, useDispatch } from 'react-redux';
-import { getApiConfiguration, getGenres } from './store/homeslice';
+import { getApiConfiguration, getGenres, homeSlice } from './store/homeslice';
 
 import Header from "./components/header/Header"
 import Footer from "./components/footer/Footer"
