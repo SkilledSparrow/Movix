@@ -111,7 +111,10 @@
         top: 60px;
         animation: mobileMenu 0.3s ease forwards;
         border-radius: 50px;
-        margin-left: 24rem;
+        margin-left: 8rem;
+        @include md{
+            margin-left: 24rem;
+        }
         
         .searchInput {
             display: flex;
